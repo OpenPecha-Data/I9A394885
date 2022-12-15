@@ -1,0 +1,26 @@
+id: I9A394885
+default_language: en
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-15 07:17:27.062449+00:00
+last_modified: 2022-12-15 07:17:27.062455+00:00
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: tei
+  datatype: Text
+  eft-text-id: UT22084-055-004
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_130-The_Illusory_Absorption-v1
+bases:
+  52C0:
+    source_metadata: null
+    order: 1
+    base_file: 52C0.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
